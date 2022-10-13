@@ -8,6 +8,10 @@
 
 ## Link:
 
+https://git.heroku.com/nocknock-not.git
+
+## NOT:Heroku decided to not share free for students if link doesnt work ,I added picture to read me.
+
 ## This app is deployed on Heroku and uses NPM Express to operationalize the back-end server for the app.
 
 <hr>
@@ -23,6 +27,8 @@
 ## Created a constructor which contained functions for each element of the notes (writing, reading, saving, deleting).
 
 ## Verify the functionality of the application, then deploy to Heroku.
+
+<hr>
 
 <hr>
 
